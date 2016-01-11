@@ -1,0 +1,2 @@
+# Nuga
+Või nuga
